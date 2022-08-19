@@ -11,4 +11,4 @@ Từ hôm nay mình sẽ viết lại những gì mình học được trong m�
 
 Rất có thể đây sẽ là bài viết duy nhất vì những ngày sau đó mình chẳng học được cái mẹ gì hết =))
 
-Thân ái :four_leaf_clover:
+Thân ái và quyết thắng :four_leaf_clover:
