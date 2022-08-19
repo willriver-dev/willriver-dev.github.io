@@ -1,7 +1,2 @@
-# CuiBap's Blog
-
-### Start
-
-```bash
-$ bundle2.5 exec jekyll serve
-```
+# Wil River blog
+** Tech blog **
