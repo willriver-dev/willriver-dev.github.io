@@ -3,8 +3,8 @@ remote_theme: "mmistakes/so-simple-theme@3.1.0"
 locale: vi-VN
 title: "Will River"
 description: "There is nothing worse than incompetence. \nLet's improve your knowledge every day. - My father said"
-baseurl: # the subpath of your site, e.g. "/blog"
-url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl: thangha-dev.github.io
+url: https://github.com/thangha-dev
 logo: "/assets/img/site/logo.png"
 date_format: "%B %-d, %Y"
 read_time: true
