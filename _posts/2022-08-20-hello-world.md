@@ -5,6 +5,9 @@ title:  "Welcome to Jekyll!"
 
 # Welcome
 
-**Hello world**, this is my first Jekyll blog post.
+**Hello world**, Bài post đầu tiên.
 
-I hope you like it!
+Note lại những gì học được, tiện cho việc ôn tập sau này.
+Tạo động lực học tập cho bản thân.
+Chia sẻ kiến thức với mọi người, nhân tiện rèn luyện khả năng trình bày, diễn giải một vấn đề nào đó.
+Làm quen với markdown, vì blog được viết bằng markdown.
