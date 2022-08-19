@@ -1,0 +1,99 @@
+# Site settings
+remote_theme: "mmistakes/so-simple-theme@3.1.0"
+locale: vi-VN
+title: "Will River"
+description: "There is nothing worse than incompetence. \nLet's improve your knowledge every day. - My father said"
+baseurl: # the subpath of your site, e.g. "/blog"
+url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+logo: "/assets/img/site/logo.png"
+date_format: "%B %-d, %Y"
+read_time: true
+words_per_minute: 135
+mathjax: true
+google_fonts:
+  - name: "Source Sans Pro"
+    weights: "400,400i,700,700i"
+  - name: "Lora"
+    weights: "400,400i,700,700i"
+google_analytics: "UA-60710840-7" # Google Analytics id, e.g. "UA-NNNNNNNN-N"
+disqus:
+  shortname:
+twitter:
+  username:
+owner:
+  google:
+    verify: "t18AgnUlPXcnom_60z4dF59ythwnXuTypYCoh0nr5MM"
+
+# Liquid
+liquid:
+  error_mode: strict
+
+# Build settings
+permalink: /:categories/:title/
+markdown: kramdown
+feed:
+  path: atom.xml
+
+# Pagination - https://jekyllrb.com/docs/pagination/
+paginate: 10
+paginate_path: /page:num/
+
+# Search
+search_full_content: false # can have performance implications for large sites
+
+# Taxonomy pages
+category_archive_path: "/categories/#"
+tag_archive_path: "/tags/#"
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-paginate
+  - jemoji
+
+# Front Matter Defaults
+defaults:
+  # Posts defaults
+  - scope:
+      path: "_posts"
+      type: posts
+    values:
+      layout: post
+      share: true
+      fbcomments: true
+
+# Site Author
+author:
+  name: Will River
+  picture: /assets/img/avatar/ava.png
+  github: "@thanghv-dev"
+  links:
+    - title: Github
+      url: https://github.com/thanghv-dev
+      icon: fab fa-github-square
+    - title: Facebook
+      url: https://www.facebook.com/rio.ichimaru
+      icon: fab fa-facebook-square
+
+# Footer Links
+footer_links:
+  - title: Feed
+    url: atom.xml
+    icon: fas fa-rss-square
+
+# Emoji customizing
+emoji:
+  src: "/assets/img/"
