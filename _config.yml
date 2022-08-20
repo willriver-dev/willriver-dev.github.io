@@ -3,6 +3,8 @@ theme: jekyll-theme-so-simple
 locale: vi-VN
 title: "Will River"
 description: "There is nothing worse than incompetence. \nLet's improve your knowledge every day. - My father said"
+baseurl:  https://willriver-dev.github.io
+url: https://willriver-dev.github.io
 logo: "/assets/img/site/logo.png"
 date_format: "%B %-d, %Y"
 read_time: true
