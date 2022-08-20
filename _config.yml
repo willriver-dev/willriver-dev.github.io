@@ -13,7 +13,7 @@ mathjax: true
 google_fonts:
   - name: "Yanone Kaffeesatz"
     weights: "400,400i,700,700i"
-  - name: "Ubuntu Mono"
+  - name: "Lora"
     weights: "400,400i,700,700i"
 google_analytics: "UA-60710840-7" # Google Analytics id, e.g. "UA-NNNNNNNN-N"
 disqus:
