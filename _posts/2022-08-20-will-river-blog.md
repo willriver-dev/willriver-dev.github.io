@@ -9,9 +9,9 @@ tags:
 hide_thumbnail: true
 image: /assets/img/posts/2022-08-20-will-river-blog/bye_gift.jpeg
 ---
-Mình đã có ý định muốn viết blog khá lâu rồi. Nhưng 1 phần vì ngại (do mình còn dốt), với 1 phần vì lười nên cứ lần nữa mãi chưa làm :weary::weary:. 
+Mình đã có ý định viết blog khá lâu rồi. Nhưng 1 phần vì ngại (do mình còn dốt), với 1 phần vì lười nên cứ lần nữa mãi chưa làm :weary::weary:. 
 
-Thời điểm này mình mới nghỉ việc, và có ý định ôn tập hệ thống lại kiến thức để đi phỏng vấn (không viết blog bây giờ thì để bao giờ nữa :stuck_out_tongue_closed_eyes:). Nên là phải bắt tay vào việc thôi.
+Thời điểm này mình mới nghỉ việc, và có ý định ôn tập, hệ thống lại kiến thức để đi phỏng vấn (không viết blog bây giờ thì để bao giờ nữa :stuck_out_tongue_closed_eyes:). Nên là phải bắt tay vào việc thôi.
 
 Do trình độ và kiến thức còn hạn chế nên những gì mình viết chỉ đơn giản là những gì mình đang tìm hiểu. Có thể đúng có thể sai :relieved:. Nếu sai thì mọi người hãy sửa giúp. Nếu đúng thì rất mong nó ích với mọi người :neckbeard::neckbeard:.
 
