@@ -6,6 +6,8 @@ categories: Life
 tags:
   - Blog
   - Note
+hide_thumbnail: true
+image: /assets/img/posts/2022-08-20-will-river-blog/bye_gift.jpeg
 ---
 Mình đã có ý định muốn viết blog khá lâu rồi. Nhưng 1 phần vì ngại (do mình còn dốt), với 1 phần vì lười nên cứ lần nữa mãi chưa làm :weary::weary:. 
 
