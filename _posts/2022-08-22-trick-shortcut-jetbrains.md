@@ -96,6 +96,12 @@ Select phần tử giống phần tử đang được bôi đen. (⌃⌘g là ch
 
 <img src="/assets/img/posts/2022-08-22-trick-shortcut-jetbrains/ctrlG.gif" alt="ctrl_g" width="400"/>
 
+Đây là một vài phím tắt mình hay dùng khi code. Vẫn còn nữa nhưng list hết ra thì nhiều quá. <br>
+Ngoài ra các bạn có thể tự custom shortcut theo sở thích của mình nhé :D
+
+Nguồn tham khảo:
+- https://www.jetbrains.com/help/idea/reference-keymap-mac-default.html
+- https://blog.jetbrains.com/idea/2020/03/top-15-intellij-idea-shortcuts/#%E2%8C%83T_or_ShiftCtrlAltT
 
 
 
