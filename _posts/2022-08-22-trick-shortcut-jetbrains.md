@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "[Tips] Phím tắt hữu ích khi sử dụng ide"
+title:  "[Tips] Phím tắt hữu ích khi sử dụng jetbrains ides"
 date:   2022-08-20 05:47:04 +0700
 categories: Life
 tags:
   - Tips
   - Other
 hide_thumbnail: true
-image: /assets/img/posts/2022-08-20-will-river-blog/bye_gift.jpeg
+image: /assets/img/posts/2022-08-22-trick-shortcut-jetbrains/jb_beam.svg
 ---
 {% capture markdown %}
 #### 1. Alt + Enter (⌥↑⏎)
