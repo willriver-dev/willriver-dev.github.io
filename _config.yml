@@ -10,10 +10,11 @@ date_format: "%B %-d, %Y"
 read_time: true
 words_per_minute: 135
 mathjax: true
+markdown: kramdown
 google_fonts:
   - name: "Fira Sans"
     weights: "400,400i,700,700i"
-  - name: "Lora"
+  - name: "K2D"
     weights: "400,400i,700,700i"
 google_analytics: "UA-60710840-7" # Google Analytics id, e.g. "UA-NNNNNNNN-N"
 disqus:
